@@ -44,7 +44,7 @@ Example compilation command:
 gcc -o gtk_source_view_example gtk_source_view_example.c `pkg-config --cflags --libs gtk+-3.0 gtksourceview-4.0`
 ```
 
-A Makefile is also provided for convenience. You can just `make` to compile the program.
+A Makefile is also provided for convenience. You can just run `make` to compile the program.
 
 ## Running the Program
 
@@ -68,7 +68,7 @@ ls /usr/share/gtksourceview-3.0/language-specs
 
 ## Resources
 
-* [GTK Documentation] (https://www.gtk.org/docs/)
-* [GtkSourceView Home and Documentation] (https://wiki.gnome.org/Projects/GtkSourceView)
+* [GTK Documentation](https://www.gtk.org/docs/)
+* [GtkSourceView Home and Documentation](https://wiki.gnome.org/Projects/GtkSourceView)
 * [GtkSourceView Language Definitions](https://gitlab.gnome.org/GNOME/gtksourceview/tree/master/data/language-specs)
 
